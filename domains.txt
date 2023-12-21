@@ -1,0 +1,3 @@
+lednerb.eu,95.216.9.186
+owncloudfinding.local,127.0.0.1
+nextcloudfinding.local,127.0.0.1

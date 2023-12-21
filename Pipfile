@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+aiohttp = "*"
+requests = "*"
+tqdm = "*"
+click = "*"
+tabulate = "*"
+pyperclip = "*"
+validators = "*"
+tldextract = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3"
