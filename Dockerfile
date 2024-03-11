@@ -14,4 +14,4 @@ COPY . .
 
 WORKDIR /data
 
-CMD ["python", "/app/aio.py"]
+ENTRYPOINT ["python", "/app/aio.py"]
